@@ -172,7 +172,7 @@ export const DesktopList = styled.ul`
 
     @media (min-width: 1440px) {
         gap: 16px;
-        margin-right: 50px;
+        margin-right: 25px;
     }
 `;
 

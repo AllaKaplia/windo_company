@@ -44,13 +44,6 @@ export const ContainerHero = styled.div`
     } 
 `;
 
-// height: 598px;
-// max-width: 456px;
-// position: absolute;
-// top: 62%;
-// left: 0%;
-// z-index: -1;
-
 
 export const HeroTitle = styled.h1`
     margin-bottom: 12px;
@@ -322,7 +315,7 @@ export const ImgHeroDesktop = styled.div`
         display: block;
         position: absolute;
         top: 64px;
-        left: 61%;
+        left: 63%;
     }
 
     @media (min-width: 1300px) {
