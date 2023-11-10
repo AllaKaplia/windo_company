@@ -1,4 +1,4 @@
-# Commercial project: single-page website for advertising products for Windo company
+# Commercial project: lending website for advertising products for Windo company
 
 Created in collaboration with a designer and maintained regular communication with the client.
 
