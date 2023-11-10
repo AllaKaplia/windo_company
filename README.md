@@ -3,18 +3,18 @@
 Created in collaboration with a designer and maintained regular communication with the client.
 
 ### `Front-end developer: Alla kaplia`
-[GitHub](https://github.com/AllaKaplia)
+Portfolio: [GitHub](https://github.com/AllaKaplia)
 
-[Telegram](https://t.me/AllaKaplia)
+Contact in: [Telegram](https://t.me/AllaKaplia)
 
-[LinkedIn](https://www.linkedin.com/in/alla-kaplia/)
+Profile in: [LinkedIn](https://www.linkedin.com/in/alla-kaplia/)
 
 ### `Designer: Iryna Nesterenko`
-[Behance](https://www.behance.net/e75d9ed4)
+Portfolio: [Behance](https://www.behance.net/e75d9ed4)
 
-[Telegram](https://t.me/Nesterenkoi)
+Contact in: [Telegram](https://t.me/Nesterenkoi)
 
-[LinkedIn](https://www.linkedin.com/in/iryna-nesterenko-b44550270/)
+Profile in: [LinkedIn](https://www.linkedin.com/in/iryna-nesterenko-b44550270/)
 
 # Getting Started with Create React App
 
