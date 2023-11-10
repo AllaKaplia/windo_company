@@ -4,12 +4,16 @@ Created in collaboration with a designer and maintained regular communication wi
 
 ### `Front-end developer: Alla kaplia`
 [GitHub](https://github.com/AllaKaplia)
+
 [Telegram](https://t.me/AllaKaplia)
+
 [LinkedIn](https://www.linkedin.com/in/alla-kaplia/)
 
 ### `Designer: Iryna Nesterenko`
 [Behance](https://www.behance.net/e75d9ed4)
+
 [Telegram](https://t.me/Nesterenkoi)
+
 [LinkedIn](https://www.linkedin.com/in/iryna-nesterenko-b44550270/)
 
 # Getting Started with Create React App
