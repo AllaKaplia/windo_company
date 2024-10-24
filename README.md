@@ -2,7 +2,7 @@
 
 Created in collaboration with a designer and maintained regular communication with the client.
 
-### `Front-end developer: Alla kaplia`
+### `Full-stack developer: Alla kaplia`
 Portfolio: [GitHub](https://github.com/AllaKaplia)
 
 Contact in: [Telegram](https://t.me/AllaKaplia)
